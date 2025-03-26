@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 # Streamlit UI
-st.title("Unique data Finder")
+st.title("Unique Data Finder")
 
 # Upload Correct Data File
 st.write("### Upload Correct Data File")
